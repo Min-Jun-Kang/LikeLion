@@ -1,0 +1,7 @@
+D:\LikeLion\LikeLion\literal\literal\bin\Debug\literal.exe.config
+D:\LikeLion\LikeLion\literal\literal\bin\Debug\literal.exe
+D:\LikeLion\LikeLion\literal\literal\bin\Debug\literal.pdb
+D:\LikeLion\LikeLion\literal\literal\obj\Debug\literal.csproj.AssemblyReference.cache
+D:\LikeLion\LikeLion\literal\literal\obj\Debug\literal.csproj.CoreCompileInputs.cache
+D:\LikeLion\LikeLion\literal\literal\obj\Debug\literal.exe
+D:\LikeLion\LikeLion\literal\literal\obj\Debug\literal.pdb
