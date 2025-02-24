@@ -19,14 +19,14 @@ namespace Day3_1
             ////각 과목의 점수는 정수형으로 입력받습니다.
 
             //int count = 0;
-            //Console.Write("국어 점수를 입력해주세요: ");
-            //int iKor = int.Parse(Console.ReadLine());
+            //console.write("국어 점수를 입력해주세요: ");
+            //int ikor = int.parse(console.readline());
             //count += 1;
-            //Console.Write("영어 점수를 입력해주세요: ");
-            //int iEng = int.Parse(Console.ReadLine());
+            //console.write("영어 점수를 입력해주세요: ");
+            //int ieng = int.parse(console.readline());
             //count += 1;
-            //Console.Write("수학 점수를 입력해주세요: ");
-            //int iMat = int.Parse(Console.ReadLine());
+            //console.write("수학 점수를 입력해주세요: ");
+            //int imat = int.parse(console.readline());
             //count += 1;
 
             //Console.WriteLine();
@@ -47,18 +47,35 @@ namespace Day3_1
 
             //요구사항:
 
-            //정수를 입력받습니다.
-            Console.Write("정수를 입력해주세요: ");
-            int number = int.Parse(Console.ReadLine());
-            //String BiNumber = Convert.ToString(number, 2); 2진수로 표현
-            int RNumber = ~number;
-            //String BiRNumber = Convert.ToString(RNumber,2);
+            ////정수를 입력받습니다.
+            //Console.Write("정수를 입력해주세요: ");
+            //int number = int.Parse(Console.ReadLine());
+            ////String BiNumber = Convert.ToString(number, 2); 2진수로 표현
+            //int RNumber = ~number;
+            ////String BiRNumber = Convert.ToString(RNumber,2);
 
-            Console.WriteLine($"입력 하신 정수는 {number}");
-            Console.WriteLine($"입력 하신 정수의 비트 반전은 {RNumber}");
+            //Console.WriteLine($"입력 하신 정수는 {number}");
+            //Console.WriteLine($"입력 하신 정수의 비트 반전은 {RNumber}");
 
-            //비트 반전 연산자(~)를 이용하여 입력된 정수의 비트를 반전합니다.
-            //원래의 값과 비트 반전 후의 값을 함께 출력합니다.
+            ////비트 반전 연산자(~)를 이용하여 입력된 정수의 비트를 반전합니다.
+            ////원래의 값과 비트 반전 후의 값을 함께 출력합니다.
+
+            //문제
+
+            //1단계
+            //가지고 있는 소지금을 입력하세요 : 
+            //0~100 무한의 대검 +1
+            //101~200 카타나 +2
+            //201~300 카타나 +3
+            //301~400 카타나 +4
+            //401~500 카타나 +5
+            //501~600 카타나 +6
+
+
+            //2단계
+            //캐릭터 이름 
+            //공격력 : 100 + 1
+
 
 
         }
