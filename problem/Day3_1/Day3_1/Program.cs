@@ -60,23 +60,71 @@ namespace Day3_1
             ////비트 반전 연산자(~)를 이용하여 입력된 정수의 비트를 반전합니다.
             ////원래의 값과 비트 반전 후의 값을 함께 출력합니다.
 
-            //문제
+            ////문제
 
-            //1단계
-            //가지고 있는 소지금을 입력하세요 : 
-            //0~100 무한의 대검 +1
-            //101~200 카타나 +2
-            //201~300 카타나 +3
-            //301~400 카타나 +4
-            //401~500 카타나 +5
-            //501~600 카타나 +6
-
-
-            //2단계
-            //캐릭터 이름 
-            //공격력 : 100 + 1
+            ////1단계
+            ////가지고 있는 소지금을 입력하세요 : 
+            ////0~100 무한의 대검 +1
+            ////101~200 카타나 +2
+            ////201~300 카타나 +3
+            ////301~400 카타나 +4
+            ////401~500 카타나 +5
+            ////501~600 카타나 +6
 
 
+            ////2단계
+            ////캐릭터 이름 
+            ////공격력 : 100 + 1
+            //Console.Write("가지고 있는 소지금을 입력하세요 : ");
+            //int money = int.Parse(Console.ReadLine());
+            //string weapon = null;
+            //int att = 0;
+            //string name = "멋사검존";
+            //if (money > 600)
+            //{
+            //    Console.WriteLine("전설의 검을 획득하셨습니다.");
+            //    weapon = "전설의 검";
+            //    att = 7;
+            //}
+            //else if (money <= 600 && money > 500)
+            //{
+            //    Console.WriteLine("유령검을 획득하셨습니다.");
+            //    weapon = "유령의 검";
+            //    att = 6;
+            //}
+            //else if (money <= 500 && money > 400)
+            //{
+            //    Console.WriteLine("엑스칼리버를 획득하셨습니다.");
+            //    weapon = "엑스칼리버";
+            //    att = 5;
+            //}
+            //else if (money <= 400 && money > 300)
+            //{
+            //    Console.WriteLine("집판검을 획득하셨습니다.");
+            //    weapon = "집판검";
+            //    att = 4;
+            //}
+            //else if (money <= 300 && money > 200)
+            //{
+            //    Console.WriteLine("진은검을 획득하셨습니다.");
+            //    weapon = "진은검";
+            //    att = 3;
+            //}
+            //else if (money <= 200 && money > 100)
+            //{
+            //    Console.WriteLine("카타나를 획득하셨습니다.");
+            //    weapon = "카타나";
+            //    att = 2;
+            //}
+            //else
+            //{
+            //    Console.WriteLine("무한의 대검을 획득하셨습니다.");
+            //    weapon = "무한의 대검";
+            //    att = 1;
+            //}
+            //Console.WriteLine($"캐릭터의 이름 : {name}");
+            //Console.WriteLine($"캐릭터의 무기 : {weapon}");
+            //Console.WriteLine($"캐릭터의 공격력 : 100 + {att}");
 
         }
     }
