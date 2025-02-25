@@ -1,0 +1,7 @@
+D:\LikeLion\LikeLion\Game\BlackSmith\BlackSmith\bin\Debug\BlackSmith.exe.config
+D:\LikeLion\LikeLion\Game\BlackSmith\BlackSmith\bin\Debug\BlackSmith.exe
+D:\LikeLion\LikeLion\Game\BlackSmith\BlackSmith\bin\Debug\BlackSmith.pdb
+D:\LikeLion\LikeLion\Game\BlackSmith\BlackSmith\obj\Debug\BlackSmith.csproj.AssemblyReference.cache
+D:\LikeLion\LikeLion\Game\BlackSmith\BlackSmith\obj\Debug\BlackSmith.csproj.CoreCompileInputs.cache
+D:\LikeLion\LikeLion\Game\BlackSmith\BlackSmith\obj\Debug\BlackSmith.exe
+D:\LikeLion\LikeLion\Game\BlackSmith\BlackSmith\obj\Debug\BlackSmith.pdb

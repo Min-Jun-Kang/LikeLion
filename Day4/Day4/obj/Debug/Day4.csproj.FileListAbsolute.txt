@@ -1,0 +1,7 @@
+D:\LikeLion\LikeLion\Day4\Day4\bin\Debug\Day4.exe.config
+D:\LikeLion\LikeLion\Day4\Day4\bin\Debug\Day4.exe
+D:\LikeLion\LikeLion\Day4\Day4\bin\Debug\Day4.pdb
+D:\LikeLion\LikeLion\Day4\Day4\obj\Debug\Day4.csproj.AssemblyReference.cache
+D:\LikeLion\LikeLion\Day4\Day4\obj\Debug\Day4.csproj.CoreCompileInputs.cache
+D:\LikeLion\LikeLion\Day4\Day4\obj\Debug\Day4.exe
+D:\LikeLion\LikeLion\Day4\Day4\obj\Debug\Day4.pdb
