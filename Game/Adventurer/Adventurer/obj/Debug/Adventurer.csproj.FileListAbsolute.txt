@@ -1,0 +1,7 @@
+D:\LikeLion\LikeLion\Game\Adventurer\Adventurer\bin\Debug\Adventurer.exe.config
+D:\LikeLion\LikeLion\Game\Adventurer\Adventurer\bin\Debug\Adventurer.exe
+D:\LikeLion\LikeLion\Game\Adventurer\Adventurer\bin\Debug\Adventurer.pdb
+D:\LikeLion\LikeLion\Game\Adventurer\Adventurer\obj\Debug\Adventurer.csproj.AssemblyReference.cache
+D:\LikeLion\LikeLion\Game\Adventurer\Adventurer\obj\Debug\Adventurer.csproj.CoreCompileInputs.cache
+D:\LikeLion\LikeLion\Game\Adventurer\Adventurer\obj\Debug\Adventurer.exe
+D:\LikeLion\LikeLion\Game\Adventurer\Adventurer\obj\Debug\Adventurer.pdb
