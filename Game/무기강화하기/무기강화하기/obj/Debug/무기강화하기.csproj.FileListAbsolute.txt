@@ -1,0 +1,7 @@
+D:\LikeLion\LikeLion\Game\무기강화하기\무기강화하기\bin\Debug\무기강화하기.exe.config
+D:\LikeLion\LikeLion\Game\무기강화하기\무기강화하기\bin\Debug\무기강화하기.exe
+D:\LikeLion\LikeLion\Game\무기강화하기\무기강화하기\bin\Debug\무기강화하기.pdb
+D:\LikeLion\LikeLion\Game\무기강화하기\무기강화하기\obj\Debug\무기강화하기.csproj.AssemblyReference.cache
+D:\LikeLion\LikeLion\Game\무기강화하기\무기강화하기\obj\Debug\무기강화하기.csproj.CoreCompileInputs.cache
+D:\LikeLion\LikeLion\Game\무기강화하기\무기강화하기\obj\Debug\무기강화하기.exe
+D:\LikeLion\LikeLion\Game\무기강화하기\무기강화하기\obj\Debug\무기강화하기.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LikeLion\\LikeLion\\Game\\\uBB34\uAE30\uAC15\uD654\uD558\uAE30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE20169B-12DA-4613-94F6-4B3027C069B5}|\uBB34\uAE30\uAC15\uD654\uD558\uAE30\\\uBB34\uAE30\uAC15\uD654\uD558\uAE30.csproj|d:\\likelion\\likelion\\game\\\uBB34\uAE30\uAC15\uD654\uD558\uAE30\\\uBB34\uAE30\uAC15\uD654\uD558\uAE30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE20169B-12DA-4613-94F6-4B3027C069B5}|\uBB34\uAE30\uAC15\uD654\uD558\uAE30\\\uBB34\uAE30\uAC15\uD654\uD558\uAE30.csproj|solutionrelative:\uBB34\uAE30\uAC15\uD654\uD558\uAE30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LikeLion\\LikeLion\\Game\\\uBB34\uAE30\uAC15\uD654\uD558\uAE30\\\uBB34\uAE30\uAC15\uD654\uD558\uAE30\\Program.cs",
+              "RelativeDocumentMoniker": "\uBB34\uAE30\uAC15\uD654\uD558\uAE30\\Program.cs",
+              "ToolTip": "D:\\LikeLion\\LikeLion\\Game\\\uBB34\uAE30\uAC15\uD654\uD558\uAE30\\\uBB34\uAE30\uAC15\uD654\uD558\uAE30\\Program.cs",
+              "RelativeToolTip": "\uBB34\uAE30\uAC15\uD654\uD558\uAE30\\Program.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAgwJoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:59:29.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
