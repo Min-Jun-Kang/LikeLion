@@ -1,0 +1,7 @@
+D:\LikeLion\낙서장\낙서장\bin\Debug\낙서장.exe.config
+D:\LikeLion\낙서장\낙서장\bin\Debug\낙서장.exe
+D:\LikeLion\낙서장\낙서장\bin\Debug\낙서장.pdb
+D:\LikeLion\낙서장\낙서장\obj\Debug\낙서장.csproj.AssemblyReference.cache
+D:\LikeLion\낙서장\낙서장\obj\Debug\낙서장.csproj.CoreCompileInputs.cache
+D:\LikeLion\낙서장\낙서장\obj\Debug\낙서장.exe
+D:\LikeLion\낙서장\낙서장\obj\Debug\낙서장.pdb
