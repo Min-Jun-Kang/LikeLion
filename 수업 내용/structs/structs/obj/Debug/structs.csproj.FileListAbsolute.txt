@@ -1,0 +1,7 @@
+D:\LikeLion\LikeLion\수업 내용\structs\structs\bin\Debug\structs.exe.config
+D:\LikeLion\LikeLion\수업 내용\structs\structs\bin\Debug\structs.exe
+D:\LikeLion\LikeLion\수업 내용\structs\structs\bin\Debug\structs.pdb
+D:\LikeLion\LikeLion\수업 내용\structs\structs\obj\Debug\structs.csproj.AssemblyReference.cache
+D:\LikeLion\LikeLion\수업 내용\structs\structs\obj\Debug\structs.csproj.CoreCompileInputs.cache
+D:\LikeLion\LikeLion\수업 내용\structs\structs\obj\Debug\structs.exe
+D:\LikeLion\LikeLion\수업 내용\structs\structs\obj\Debug\structs.pdb
