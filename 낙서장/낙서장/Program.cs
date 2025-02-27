@@ -56,6 +56,10 @@ namespace 낙서장
             //    System.Console.WriteLine($"<{word}>");
             //}
 
+            //2025.02.27
+            //스레드에 알아보자
+            //구조체(struct)에 대해 알아보자
+            //클래스
 
 
 
