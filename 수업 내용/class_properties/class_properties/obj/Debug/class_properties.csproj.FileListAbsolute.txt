@@ -1,0 +1,7 @@
+D:\LikeLion\LikeLion\수업 내용\class_properties\class_properties\bin\Debug\class_properties.exe.config
+D:\LikeLion\LikeLion\수업 내용\class_properties\class_properties\bin\Debug\class_properties.exe
+D:\LikeLion\LikeLion\수업 내용\class_properties\class_properties\bin\Debug\class_properties.pdb
+D:\LikeLion\LikeLion\수업 내용\class_properties\class_properties\obj\Debug\class_properties.csproj.AssemblyReference.cache
+D:\LikeLion\LikeLion\수업 내용\class_properties\class_properties\obj\Debug\class_properties.csproj.CoreCompileInputs.cache
+D:\LikeLion\LikeLion\수업 내용\class_properties\class_properties\obj\Debug\class_properties.exe
+D:\LikeLion\LikeLion\수업 내용\class_properties\class_properties\obj\Debug\class_properties.pdb

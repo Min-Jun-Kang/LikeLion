@@ -1,0 +1,7 @@
+D:\LikeLion\LikeLion\수업 내용\Class_GetSet\Class_GetSet\bin\Debug\Class_GetSet.exe.config
+D:\LikeLion\LikeLion\수업 내용\Class_GetSet\Class_GetSet\bin\Debug\Class_GetSet.exe
+D:\LikeLion\LikeLion\수업 내용\Class_GetSet\Class_GetSet\bin\Debug\Class_GetSet.pdb
+D:\LikeLion\LikeLion\수업 내용\Class_GetSet\Class_GetSet\obj\Debug\Class_GetSet.csproj.AssemblyReference.cache
+D:\LikeLion\LikeLion\수업 내용\Class_GetSet\Class_GetSet\obj\Debug\Class_GetSet.csproj.CoreCompileInputs.cache
+D:\LikeLion\LikeLion\수업 내용\Class_GetSet\Class_GetSet\obj\Debug\Class_GetSet.exe
+D:\LikeLion\LikeLion\수업 내용\Class_GetSet\Class_GetSet\obj\Debug\Class_GetSet.pdb

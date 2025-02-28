@@ -1,0 +1,7 @@
+D:\LikeLion\LikeLion\수업 내용\Class_marine\Class_marine\bin\Debug\Class_marine.exe.config
+D:\LikeLion\LikeLion\수업 내용\Class_marine\Class_marine\bin\Debug\Class_marine.exe
+D:\LikeLion\LikeLion\수업 내용\Class_marine\Class_marine\bin\Debug\Class_marine.pdb
+D:\LikeLion\LikeLion\수업 내용\Class_marine\Class_marine\obj\Debug\Class_marine.csproj.AssemblyReference.cache
+D:\LikeLion\LikeLion\수업 내용\Class_marine\Class_marine\obj\Debug\Class_marine.csproj.CoreCompileInputs.cache
+D:\LikeLion\LikeLion\수업 내용\Class_marine\Class_marine\obj\Debug\Class_marine.exe
+D:\LikeLion\LikeLion\수업 내용\Class_marine\Class_marine\obj\Debug\Class_marine.pdb
