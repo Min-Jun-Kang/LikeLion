@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LikeLion\\LikeLion\\problem\\Day8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{256CB6A4-7BC9-4E83-B4B6-FE7593F8425B}|Day8\\Day8.csproj|d:\\likelion\\likelion\\problem\\day8\\day8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256CB6A4-7BC9-4E83-B4B6-FE7593F8425B}|Day8\\Day8.csproj|solutionrelative:day8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LikeLion\\LikeLion\\problem\\Day8\\Day8\\Program.cs",
+              "RelativeDocumentMoniker": "Day8\\Program.cs",
+              "ToolTip": "D:\\LikeLion\\LikeLion\\problem\\Day8\\Day8\\Program.cs",
+              "RelativeToolTip": "Day8\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:57:31.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

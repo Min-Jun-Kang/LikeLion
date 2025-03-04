@@ -1,0 +1,7 @@
+D:\LikeLion\LikeLion\problem\Day8\Day8_2\Day8_2\bin\Debug\Day8_2.exe.config
+D:\LikeLion\LikeLion\problem\Day8\Day8_2\Day8_2\bin\Debug\Day8_2.exe
+D:\LikeLion\LikeLion\problem\Day8\Day8_2\Day8_2\bin\Debug\Day8_2.pdb
+D:\LikeLion\LikeLion\problem\Day8\Day8_2\Day8_2\obj\Debug\Day8_2.csproj.AssemblyReference.cache
+D:\LikeLion\LikeLion\problem\Day8\Day8_2\Day8_2\obj\Debug\Day8_2.csproj.CoreCompileInputs.cache
+D:\LikeLion\LikeLion\problem\Day8\Day8_2\Day8_2\obj\Debug\Day8_2.exe
+D:\LikeLion\LikeLion\problem\Day8\Day8_2\Day8_2\obj\Debug\Day8_2.pdb
