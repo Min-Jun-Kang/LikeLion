@@ -1,0 +1,7 @@
+D:\LikeLion\LikeLion\저녁 특강\Day1\Day1\bin\Debug\Day1.exe.config
+D:\LikeLion\LikeLion\저녁 특강\Day1\Day1\bin\Debug\Day1.exe
+D:\LikeLion\LikeLion\저녁 특강\Day1\Day1\bin\Debug\Day1.pdb
+D:\LikeLion\LikeLion\저녁 특강\Day1\Day1\obj\Debug\Day1.csproj.AssemblyReference.cache
+D:\LikeLion\LikeLion\저녁 특강\Day1\Day1\obj\Debug\Day1.csproj.CoreCompileInputs.cache
+D:\LikeLion\LikeLion\저녁 특강\Day1\Day1\obj\Debug\Day1.exe
+D:\LikeLion\LikeLion\저녁 특강\Day1\Day1\obj\Debug\Day1.pdb
