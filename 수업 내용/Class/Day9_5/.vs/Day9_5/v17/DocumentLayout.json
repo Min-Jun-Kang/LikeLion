@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LikeLion\\LikeLion\\\uC218\uC5C5 \uB0B4\uC6A9\\Class\\Day9_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4ECD45-0630-41AB-A9D2-B4D7625630FB}|Day9_5\\Day9_5.csproj|d:\\likelion\\likelion\\\uC218\uC5C5 \uB0B4\uC6A9\\class\\day9_5\\day9_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4ECD45-0630-41AB-A9D2-B4D7625630FB}|Day9_5\\Day9_5.csproj|solutionrelative:day9_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LikeLion\\LikeLion\\\uC218\uC5C5 \uB0B4\uC6A9\\Class\\Day9_5\\Day9_5\\Program.cs",
+              "RelativeDocumentMoniker": "Day9_5\\Program.cs",
+              "ToolTip": "D:\\LikeLion\\LikeLion\\\uC218\uC5C5 \uB0B4\uC6A9\\Class\\Day9_5\\Day9_5\\Program.cs",
+              "RelativeToolTip": "Day9_5\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvyYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:15:20.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
