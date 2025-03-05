@@ -1,0 +1,7 @@
+D:\LikeLion\LikeLion\수업 내용\Class\example2\example2\bin\Debug\example2.exe.config
+D:\LikeLion\LikeLion\수업 내용\Class\example2\example2\bin\Debug\example2.exe
+D:\LikeLion\LikeLion\수업 내용\Class\example2\example2\bin\Debug\example2.pdb
+D:\LikeLion\LikeLion\수업 내용\Class\example2\example2\obj\Debug\example2.csproj.AssemblyReference.cache
+D:\LikeLion\LikeLion\수업 내용\Class\example2\example2\obj\Debug\example2.csproj.CoreCompileInputs.cache
+D:\LikeLion\LikeLion\수업 내용\Class\example2\example2\obj\Debug\example2.exe
+D:\LikeLion\LikeLion\수업 내용\Class\example2\example2\obj\Debug\example2.pdb
