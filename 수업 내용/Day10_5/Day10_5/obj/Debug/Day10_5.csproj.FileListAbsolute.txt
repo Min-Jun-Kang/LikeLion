@@ -1,0 +1,7 @@
+D:\LikeLion\LikeLion\수업 내용\Day10_5\Day10_5\bin\Debug\Day10_5.exe.config
+D:\LikeLion\LikeLion\수업 내용\Day10_5\Day10_5\bin\Debug\Day10_5.exe
+D:\LikeLion\LikeLion\수업 내용\Day10_5\Day10_5\bin\Debug\Day10_5.pdb
+D:\LikeLion\LikeLion\수업 내용\Day10_5\Day10_5\obj\Debug\Day10_5.csproj.AssemblyReference.cache
+D:\LikeLion\LikeLion\수업 내용\Day10_5\Day10_5\obj\Debug\Day10_5.csproj.CoreCompileInputs.cache
+D:\LikeLion\LikeLion\수업 내용\Day10_5\Day10_5\obj\Debug\Day10_5.exe
+D:\LikeLion\LikeLion\수업 내용\Day10_5\Day10_5\obj\Debug\Day10_5.pdb
