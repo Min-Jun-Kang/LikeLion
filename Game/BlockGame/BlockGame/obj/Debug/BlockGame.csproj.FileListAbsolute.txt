@@ -1,0 +1,7 @@
+D:\LikeLion\LikeLion\Game\BlockGame\BlockGame\bin\Debug\BlockGame.exe.config
+D:\LikeLion\LikeLion\Game\BlockGame\BlockGame\bin\Debug\BlockGame.exe
+D:\LikeLion\LikeLion\Game\BlockGame\BlockGame\bin\Debug\BlockGame.pdb
+D:\LikeLion\LikeLion\Game\BlockGame\BlockGame\obj\Debug\BlockGame.csproj.AssemblyReference.cache
+D:\LikeLion\LikeLion\Game\BlockGame\BlockGame\obj\Debug\BlockGame.csproj.CoreCompileInputs.cache
+D:\LikeLion\LikeLion\Game\BlockGame\BlockGame\obj\Debug\BlockGame.exe
+D:\LikeLion\LikeLion\Game\BlockGame\BlockGame\obj\Debug\BlockGame.pdb

@@ -1,0 +1,7 @@
+D:\LikeLion\LikeLion\수업 내용\액션\액션\bin\Debug\액션.exe.config
+D:\LikeLion\LikeLion\수업 내용\액션\액션\bin\Debug\액션.exe
+D:\LikeLion\LikeLion\수업 내용\액션\액션\bin\Debug\액션.pdb
+D:\LikeLion\LikeLion\수업 내용\액션\액션\obj\Debug\액션.csproj.AssemblyReference.cache
+D:\LikeLion\LikeLion\수업 내용\액션\액션\obj\Debug\액션.csproj.CoreCompileInputs.cache
+D:\LikeLion\LikeLion\수업 내용\액션\액션\obj\Debug\액션.exe
+D:\LikeLion\LikeLion\수업 내용\액션\액션\obj\Debug\액션.pdb
