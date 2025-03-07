@@ -3,27 +3,27 @@
   "WorkspaceRootPath": "D:\\LikeLion\\LikeLion\\Game\\BlockGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|D:\\LikeLion\\LikeLion\\Game\\BlockGame\\blockgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|solutionrelative:blockgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|D:\\LikeLion\\LikeLion\\Game\\BlockGame\\blockgame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|solutionrelative:blockgame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|D:\\LikeLion\\LikeLion\\Game\\BlockGame\\blockgame\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|solutionrelative:blockgame\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|d:\\likelion\\likelion\\game\\blockgame\\blockgame\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|solutionrelative:blockgame\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|d:\\likelion\\likelion\\game\\blockgame\\blockgame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|solutionrelative:blockgame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|d:\\likelion\\likelion\\game\\blockgame\\blockgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|solutionrelative:blockgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|d:\\likelion\\likelion\\game\\blockgame\\blockgame\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|solutionrelative:blockgame\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|d:\\likelion\\likelion\\game\\blockgame\\blockgame\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|D:\\LikeLion\\LikeLion\\Game\\BlockGame\\blockgame\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|solutionrelative:blockgame\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|d:\\likelion\\likelion\\game\\blockgame\\blockgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|D:\\LikeLion\\LikeLion\\Game\\BlockGame\\blockgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E448233F-ADF3-4DD4-BB80-156D228E5F46}|BlockGame\\BlockGame.csproj|solutionrelative:blockgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "BlockGame\\BALL.cs",
               "ToolTip": "D:\\LikeLion\\LikeLion\\Game\\BlockGame\\BlockGame\\BALL.cs",
               "RelativeToolTip": "BlockGame\\BALL.cs",
-              "ViewState": "AgIAALEAAAAAAAAAAAAowLEAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwLEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T01:43:43.504Z",
               "IsPinned": true,
@@ -52,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Bar.cs",
               "DocumentMoniker": "D:\\LikeLion\\LikeLion\\Game\\BlockGame\\BlockGame\\Bar.cs",
               "RelativeDocumentMoniker": "BlockGame\\Bar.cs",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "BARDATA.cs",
               "DocumentMoniker": "D:\\LikeLion\\LikeLion\\Game\\BlockGame\\BlockGame\\BARDATA.cs",
               "RelativeDocumentMoniker": "BlockGame\\BARDATA.cs",
@@ -79,13 +79,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\LikeLion\\LikeLion\\Game\\BlockGame\\BlockGame\\GameManager.cs",
               "RelativeDocumentMoniker": "BlockGame\\GameManager.cs",
               "ToolTip": "D:\\LikeLion\\LikeLion\\Game\\BlockGame\\BlockGame\\GameManager.cs",
               "RelativeToolTip": "BlockGame\\GameManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T02:23:31.471Z",
               "EditorCaption": ""
@@ -100,8 +100,7 @@
               "RelativeToolTip": "BlockGame\\BALLDATA.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T01:39:59.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T01:39:59.579Z"
             },
             {
               "$type": "Document",
@@ -113,8 +112,7 @@
               "RelativeToolTip": "BlockGame\\Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T01:34:36.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T01:34:36.751Z"
             }
           ]
         }

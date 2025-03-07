@@ -8,13 +8,13 @@ namespace TEXTRPG_pr
 {
     public class Player
     {
-        public INFO player_Info; //플레이어 데이터
+        public INFO Player_Info; //플레이어 데이터
 
 
         //직업 선택
         public void SelectCharacter()
         {
-            player_Info = new INFO();
+            Player_Info = new INFO();
 
             const int warrior = 1;
             const int wizard = 2;
@@ -28,34 +28,43 @@ namespace TEXTRPG_pr
             switch (choice)
             {
                 case warrior:
-                    player_Info.Name = "전사";
-                    player_Info.Attack = 10;
-                    player_Info.Hp = 100;
+                    Player_Info.Name = "전사";
+                    Player_Info.Attack = 10;
+                    Player_Info.Hp = 100;
                     break;
                 case wizard:
-                    player_Info.Name = "마법사";
-                    player_Info.Attack = 20;
-                    player_Info.Hp = 80;
+                    Player_Info.Name = "마법사";
+                    Player_Info.Attack = 20;
+                    Player_Info.Hp = 80;
                     break;
                 case archer:
-                    player_Info.Name = "전사";
-                    player_Info.Attack = 20;
-                    player_Info.Hp = 80;
+                    Player_Info.Name = "전사";
+                    Player_Info.Attack = 20;
+                    Player_Info.Hp = 80;
                     break;
                 case thief:
-                    player_Info.Name = "도적";
-                    player_Info.Attack = 10;
-                    player_Info.Hp = 90;
+                    Player_Info.Name = "도적";
+                    Player_Info.Attack = 10;
+                    Player_Info.Hp = 90;
                     break;
             }
 
         }
-        //현재 선택한 직업과 체력 및 공격력 레벨 등 확인
-        public void Stat() 
+        public INFO GetPlayer()
         {
-            Console.WriteLine("======================");
-            Console.WriteLine($"직업 이름 : {player_Info.Name}");
-            Console.WriteLine($"체력 : {player_Info.Hp}\t공격력 : {player_Info.Attack}");
+            return Player_Info;
+        }
+        public void SetHp(int Received_Damage)
+        {
+            Player_Info.Hp -= Received_Damage;
+        }
+
+        //현재 선택한 직업과 체력 및 공격력 레벨 등 확인
+        public void Render() 
+        {
+            Console.WriteLine("===========================");
+            Console.WriteLine($"직업 이름 : {Player_Info.Name}");
+            Console.WriteLine($"체력 : {Player_Info.Hp}\t공격력 : {Player_Info.Attack}");
         }
 
         public Player() { } //생성자

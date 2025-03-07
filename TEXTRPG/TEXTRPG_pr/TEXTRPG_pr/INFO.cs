@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TEXTRPG_pr
 {
-    public class INFO
+    public class INFO //게임 속 캐릭터들의 정보
     {
         public string Name;
         public int Attack;
